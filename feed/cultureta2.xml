@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>La Fonoteca de la Cultureta</title>
+		<link> </link>
+		<language>es-es</language>
+		<copyright> Copyright © Atresmedia Corporación de Medios de Comunicación, S.A - www.antena3.com </copyright>
+		<atom:link href="https://www.ondacero.es/rss/podcast/220270/podcast.xml" rel="self" type="application/rss+xml"/>
+		<itunes:subtitle>La Cultureta</itunes:subtitle>
+		<itunes:summary>Carlos Alsina, Rub&amp;eacute;n Am&amp;oacute;n, Rosa Belmonte, Guillermo Altares, JF Le&amp;oacute;n y Sergio del Molino hablan sobre cine, m&amp;uacute;sica, libros, series y mucho m&amp;aacute;s...</itunes:summary>
+		<itunes:summary>Podcast con todos los episodiosde La Cutureta. Los culturetas hablan sobre cine, muacute;sica, libros, series y mucho m&amp;aacute;s... [en construcci&amp;oacute;n] </itunes:summary>
+		<description> <![CDATA[Podcast con todos los episodios de La Cutureta. Los culturetas hablan sobre cine, música, libros, series y mucho más... [en construcción]]]></description>
+		<itunes:owner>
+			<itunes:name>OndaCero</itunes:name>
+			<itunes:email>oyentes@atresmediaradio.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://image.ondacero.es/clipping/cmsimages02/2018/04/09/61767AFB-38B3-41C5-B61A-F3CE1E1D6AD7/default.jpg"/>
+		<itunes:category text="Society &amp; Culture"/>
+
+      	<item>
+			<title>La Cultureta Gran Reserva: de recomendaciones veraniegas</title>
+			<link>https://www.ondacero.es/programas/mas-de-uno/la-cultureta/audios-podcast/cultureta-gran-reserva-23072022_2022072362db9aad6fb923000199620b.html</link>
+			<description>Programa completo de La Cultureta Gran Reserva con Rubén Amón.</description>
+			<itunes:season>8</itunes:season>
+			<itunes:episodeType/>
+			<enclosure type='audio/mpeg' url='https://dpvclip.antena3.com/mp_audios4//2022/07/23/0401485C-7563-4113-948E-F9B1FC16B9D1/0401485C-7563-4113-948E-F9B1FC16B9D1.mp3'/>
+			<itunes:duration>01:24:49</itunes:duration>
+			<pubDate>2022/07/23</pubDate>
+			<guid>98651a00-2423-4a45-95d7-d66d56a7a321</guid>
+		</item>
+
+      
+	</channel>
+</rss>
